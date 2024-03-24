@@ -2,8 +2,6 @@ package bulls.and.cows.anastasiia.tsygankova;
 
 import java.util.*;
 
-import java.util.*;
-
 public class BullsAndCows {
     private static Scanner scanner = new Scanner(System.in);
     private final String code;
